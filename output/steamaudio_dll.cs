@@ -1,5 +1,5 @@
 // Generated using https://github.com/a2x/cs2-dumper
-// 2025-11-26 16:34:02.882730900 UTC
+// 2025-12-08 22:14:45.429595300 UTC
 
 namespace CS2Dumper.Schemas {
     // Module: steamaudio.dll
